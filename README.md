@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAGHAV SHARMA</h1>
-<h3 align="center">Full Stack Web Developer (MERN & Java) passionate about AI | BCA Student at Amity University</h3>
+<h3 align="center">Full Stack Web Developer (Java) passionate about AI | BCA Student at Amity University</h3>
 <br>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavsharma-git" alt="raghavsharma-git" /></a> </p> -->
 
