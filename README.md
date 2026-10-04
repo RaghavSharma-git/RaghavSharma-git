@@ -11,11 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend Development, DSA & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/raghav-sharma-877b6127a
-
-](www.linkedin.com/in/raghav-sharma-877b6127a
-
-)
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/raghav-sharma-877b6127a
 
 - 💬 Ask me about **Frontend, Backend, MERN, Java Full Stack, AI/ML & Azure**
 
