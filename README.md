@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at www.linkedin.com/in/raghav-sharma-877b6127a
 
-- 💬 Ask me about **Frontend, Backend, MERN, Java Full Stack, AI/ML & Azure**
+- 💬 Ask me about **Frontend, Backend, Java Full Stack, AI/ML & Azure**
 
 - 📫 How to reach me **rraghavsharma06@gmail.com**
 
